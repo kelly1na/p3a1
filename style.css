@@ -1,0 +1,37 @@
+
+* { margin : 5px ;
+  box-sizing: border-box;
+}
+
+div { padding: 5px ; border : 1px solid rgb(178, 43, 202) ;
+}
+
+body { background:hotpink;
+
+   }
+
+div.column { float : left; height: 500px ; }
+div.side { width : 22% ; }
+div.main { width : 52% ; }
+div.footer { clear : both ; }
+img {
+  height: 400px;
+  object-fit: contain;
+  object-position: center;
+  }
+
+  p {
+      max-width: 80ch;
+  }
+
+  .h1 {
+      font-family: "Arial", sans-serif;
+  }
+  
+  .h2 {
+      font-family: "Arial", sans-serif;
+  }
+    
+  .p1 {
+      font-family: "Arial", sans-serif;
+  }
